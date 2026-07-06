@@ -1,0 +1,14 @@
+raw_T2w/
+raw_T2w_autotrack/
+preproc_T2w/
+preproc_T2w_autotrack/
+derivatives_2/
+derivatives_autotrack_2/
+DSI_tracts/
+DSI_tracts_autotrack/
+DSI_DWI_autotrack/
+figures*/
+pictures/
+*.trk
+*.nii.gz
+*.json
