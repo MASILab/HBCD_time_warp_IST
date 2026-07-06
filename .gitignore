@@ -9,6 +9,8 @@ DSI_tracts_autotrack/
 DSI_DWI_autotrack/
 figures*/
 pictures/
+copy_qsirecon.py
+copy_qsirecon.sh
 *.trk
 *.nii.gz
 *.json
